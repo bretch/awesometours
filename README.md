@@ -1,6 +1,7 @@
-# toursdemo
+# Awesome Tours Demo
 
-> A demo site for a company selling tour packages
+> A demo site for a company selling tour packages. Built with Vuetify and Vuex
+[demo](https://awesometours.herokuapp.com)
 
 ## Build Setup
 
